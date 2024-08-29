@@ -1,0 +1,10 @@
+transformers
+rouge-score
+torch
+scikit-learn
+fastapi
+uvicorn
+pydantic
+requests
+beautifulsoup4
+pandas
